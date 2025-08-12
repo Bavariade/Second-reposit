@@ -3,7 +3,7 @@ class ShoppingList:
     def __init__(self):
         self.item = []
 
-    def add_item(self, item):
+    def add_item(self, items):
         if item in self.items:
             print(f"'{item}' is already in the shopping list.")
         else:
