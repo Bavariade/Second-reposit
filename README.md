@@ -1,7 +1,7 @@
 
 class ShoppingList:
     def __init__(self):
-        self.item = []
+        self.ite = []
 
     def add_item(self, items):
         if item in self.items:
