@@ -1,6 +1,6 @@
 
 class ShoppingList:
-    def __init__(self):
+    de __init__(self):
         self.ite = []
 
     def add_item(self, items):
