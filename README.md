@@ -1,5 +1,5 @@
 
-class ShoppingList:
+clss ShoppingList:
     de __init__(self):
         self.ite = []
 
